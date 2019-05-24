@@ -1,0 +1,30 @@
+.mainWiz{
+    display: flex;
+    justify-content: center;
+    background: #afd4c0;
+    width: 100vw;
+    height: 90vh;
+}
+.contanerWiz{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    width: 60vw;
+    background: #e5f4ec;
+    
+}
+.cancel{
+    background: #fec2c2;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.addNew{
+    background: #8aea92;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}

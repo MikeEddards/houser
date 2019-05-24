@@ -3,6 +3,7 @@
     justify-content: center;
     background: #afd4c0;
     width: 100vw;
+    height: 100%;
 }
 .contaner{
     display: flex;

@@ -13,7 +13,7 @@ const initialState = {
     houses: []
   
 }
-
+console.log(initialState)
 export const UPDATE_NAME = 'UPDATE_NAME'
 export const UPDATE_ADDRESS = 'UPDATE_ADDRESS'
 export const UPDATE_CITY = 'UPDATE_CITY'
