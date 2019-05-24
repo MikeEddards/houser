@@ -1,0 +1,53 @@
+.main{
+    display: flex;
+    justify-content: center;
+    background: #afd4c0;
+    width: 100vw;
+}
+.contaner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vw;
+    background: #e5f4ec;
+    
+}
+.dash{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.listingBox{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    width: 50vw;
+    background: #dedede;
+    padding: 10px;
+    margin: 20px 0;
+
+}
+.houseImg{
+    height: 200px ;
+    
+}
+.dash{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    border-bottom: 3px solid 
+}
+.delete{
+    width: 20px;
+    cursor: pointer;
+}
+.addNew{
+    background: #8aea92;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,21 @@
+.header{
+    background: #519872;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 900px;
+    color: white;
+      
+}
+.logo{
+    margin-right: 20px;
+}
+.title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+}
